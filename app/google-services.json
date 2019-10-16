@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "720004443777",
+    "firebase_url": "https://petscare-d8b82.firebaseio.com",
+    "project_id": "petscare-d8b82",
+    "storage_bucket": "petscare-d8b82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720004443777:android:1bb02880e0572dc2",
+        "android_client_info": {
+          "package_name": "br.com.petscare.petscare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720004443777-jue8bltaj9k9ap8lvkit0j3s2uuco4ep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.petscare.petscare",
+            "certificate_hash": "9b1d2e4e0f13b568d1fd79f73cdf6b9465f5495a"
+          }
+        },
+        {
+          "client_id": "720004443777-n14e1kv0n0l9uk3traq0a8os32tn7j9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_lcWCxANUDDhJmUjU48zgajBHDbI3FI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720004443777-n14e1kv0n0l9uk3traq0a8os32tn7j9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

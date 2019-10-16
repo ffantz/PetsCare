@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RadioGroup
+        android:id="@+id/radio_group_cadastro"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical"
+        android:theme="@style/botaoPadrao"
+        android:background="@color/background"
+        android:padding="16dp">
+
+        <RadioButton
+            android:id="@+id/radioCachorro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/textColorSecondary"
+            android:text="@string/radioCachorro"
+            android:textSize="18sp"/>
+
+        <RadioButton
+            android:id="@+id/radioGato"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/textColorSecondary"
+            android:text="@string/radioGato"
+            android:textSize="18sp" />
+    </RadioGroup>
+
+</LinearLayout>

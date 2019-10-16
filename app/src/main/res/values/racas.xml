@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="raca_cachorro">
+        <item>Afghan Hound</item>
+        <item>Airedale Terrier</item>
+        <item>Akita</item>
+        <item>American Staffordshire Terrier</item>
+        <item>Australian Cattle Dog</item>
+        <item>Banseji</item>
+        <item>Basset Hound</item>
+        <item>Beagle</item>
+        <item>Bernese Mountain</item>
+        <item>Bichon Frise</item>
+        <item>Bloodhound</item>
+        <item>Border Collie</item>
+        <item>Borzoi</item>
+        <item>Boston Terriers</item>
+        <item>Boxer</item>
+        <item>Bull Terrier</item>
+        <item>Bulldog Frances</item>
+        <item>Bulldog Ingles</item>
+        <item>Cane Corso</item>
+        <item>Cao de crista Chines</item>
+        <item>Cavalier King Charles Spaniel</item>
+        <item>Chihuahua</item>
+        <item>Chow Chow</item>
+        <item>Cocker Spaniel</item>
+        <item>Collie</item>
+        <item>Dalmata</item>
+        <item>Doberman</item>
+        <item>Dogo Argentino</item>
+        <item>Dogue Alemao</item>
+        <item>Dogue de Bordeaux</item>
+        <item>Fila Brasileiro</item>
+        <item>Fox Paulistinha</item>
+        <item>Goldens</item>
+        <item>Greyhound</item>
+        <item>Griffon de Bruxelas</item>
+        <item>Husky Siberiano</item>
+        <item>Jack Russel</item>
+        <item>Kuvasz</item>
+        <item>Labrador</item>
+        <item>Leao da Rodesia</item>
+        <item>Lhasa Apso</item>
+        <item>Lulu da Pomerania</item>
+        <item>Malamute do Alasca</item>
+        <item>Maltes</item>
+        <item>Mastiff</item>
+        <item>Papillon</item>
+        <item>Pastor Alemao</item>
+        <item>Pastor Australiano</item>
+        <item>Pastor Belga</item>
+        <item>Pastor Branco Suico</item>
+        <item>Pastor Maremano</item>
+        <item>Pastor de Shetland</item>
+        <item>Pequines</item>
+        <item>Pinscher</item>
+        <item>Pit Bull</item>
+        <item>Pointer</item>
+        <item>Poodle</item>
+        <item>Pug</item>
+        <item>Rottweiler</item>
+        <item>Samoieda</item>
+        <item>Sao Bernardo</item>
+        <item>Schnauzer Miniatura</item>
+        <item>Setter irlandes</item>
+        <item>Shar Pei</item>
+        <item>Sheepdog</item>
+        <item>Shiba</item>
+        <item>Shih Tzu</item>
+        <item>Spitz Japones</item>
+        <item>Staffordshire Bull Terrier</item>
+        <item>Teckel</item>
+        <item>Weimaraner</item>
+        <item>Welsh Corgi Cardigan</item>
+        <item>Welsh Corgi Pembroke</item>
+        <item>Westie</item>
+        <item>Whippet</item>
+        <item>Yorkshire Terrier</item>
+    </string-array>
+    <string-array name="raca_gato">
+        <item>Abissinio</item>
+        <item>American Shorthair</item>
+        <item>Angora</item>
+        <item>Azul Russo</item>
+        <item>Bengal</item>
+        <item>Birmanes</item>
+        <item>Brazilian Shorthair</item>
+        <item>British Shorthair</item>
+        <item>Burmese</item>
+        <item>Chartreux</item>
+        <item>Cornish Rex</item>
+        <item>Devon Rex</item>
+        <item>Egyptian Mau</item>
+        <item>European Shorthair</item>
+        <item>Exotico</item>
+        <item>Himalaio</item>
+        <item>Maine Coon</item>
+        <item>Munchkin</item>
+        <item>Norwegian Forest</item>
+        <item>Oriental</item>
+        <item>Persa</item>
+        <item>Ragdoll</item>
+        <item>Savannah</item>
+        <item>Scottish Fold</item>
+        <item>Siames</item>
+        <item>Sphynx</item>
+    </string-array>
+
+</resources>
